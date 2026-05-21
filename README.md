@@ -1,6 +1,6 @@
 # Billi Bot
 
-A trading framework for cryptocurrencies. Forked from [Jesse](https://github.com/jesse-ai/jesse).
+A trading framework for cryptocurrencies.
 
 Billi is an open-source framework for algorithmic cryptocurrency trading. It supports backtesting, live trading, and strategy development across multiple exchanges.
 
